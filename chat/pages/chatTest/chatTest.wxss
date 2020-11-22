@@ -1,0 +1,24 @@
+/* pages/chatTest/chatTest.wxss */
+.con {
+    /* 新的单位: 100vh 等于 屏幕高度 */
+    height: 100vh;
+    background-color: #f00;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-con {
+    background-color: #ff0;
+    flex-grow: 1;
+}
+
+.input-con {
+    background-color: #0ff;
+    height: 50px;
+}
+
+.test {
+    width: 375rpx;
+    height: 200rpx;
+    background-color: #000;
+}

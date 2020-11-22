@@ -1,0 +1,16 @@
+<!--pages/chatTest/chatTest.wxml-->
+<!-- 不同的手机 高度不一致 -->
+<!-- 最外层容器 高度和页面一致 -->
+<view class="con">
+    <!-- 消息显示区域 -->
+    <view class="chat-con">
+        <view class="test">
+
+        </view>
+
+
+    </view>
+    <!-- 输入区域 -->
+    <view class="input-con"></view>
+
+</view>

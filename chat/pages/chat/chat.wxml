@@ -1,0 +1,56 @@
+<!--pages/chat/chat.wxml-->
+<view class="con">
+    <!-- 聊天界面 -->
+    <view class="bg-color chat-con" style="height: calc(100% - {{chat_con_height}}rpx);">
+        <!-- 竖向滚动 必须设置固定高度  保持始终显示最后一条记录 -->
+        <scroll-view scroll-y style="height:100%;" scroll-into-view="id-{{chatLists.length - 1}}">
+            <block wx:for="{{chatLists}}">
+                <view class="chats-item" id="id-{{index}}">
+                    <!-- 头像 -->
+                    <view class="avatar-con">
+                        <image class="avatar-img" mode="widthFix" src="{{item.avatar_src}}"></image>
+                    </view>
+                    <!-- 聊天气泡 -->
+                    <view class="chat-content">
+                        <block wx:if="{{item.msgType == 1}}">
+                            <text>{{item.chat_content}}</text>
+                        </block>
+                        <block wx:elif="{{item.msgType == 2}}">
+                            <image class="msgImg" mode="widthFix" src="{{item.chat_content}}"></image>
+                        </block>
+                    </view>
+                </view>
+            </block>
+        </scroll-view>
+    </view>
+
+    <!-- 输入区域 -->
+    <view class="input-con">
+        <!-- 输入框 -->
+        <input class="input" type="text" model:value="{{sendContent}}" />
+        <!-- 添加其他资源 -->
+        <image class="addContent" bindtap="addFlag" mode="heightFix" src="{{addImg}}"></image>
+        <!-- 发送按钮 -->
+        <button bindtap="sendData" class="send-btn" size="mini" type="primary">发送</button>
+    </view>
+    <!-- 其他资源的类型 -->
+    <view wx:if="{{addFlag}}" class="addImg">
+        <button class="addimg-btn" bindtap="getInfo" size="mini" type="primary" > 果蔬</button>
+        <button class="getTuPianSuZi" bindtap="getSuZi" size="mini" type="primary" > 数字 </button>
+        <button bindtap="getSimilarWords" class="addimg-btn" size="mini" type="primary" > 相似词 </button>
+        <button bindtap="getKeywordsExtraction" class="addimg-btn" size="mini" type="primary" > 关键词 </button>
+       
+        <button bindtap="getSentiment" class="addimg-btn" size="mini" type="primary" > 情感分析 </button>
+        <button class="addimg-btn" bindtap="getTuWen" size="mini" type="primary" > 文字识别 </button>   
+    </view>
+</view>
+
+<!-- 
+
+    完成 消息发送 
+        1. 文本消息
+        2. 图片消息
+
+ -->
+
+ 

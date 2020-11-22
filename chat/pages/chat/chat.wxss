@@ -1,0 +1,131 @@
+/* pages/chat/chat.wxss */
+.con {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* 单位 vh 规定 100vh == 屏幕高度 100vw == 屏幕宽度 */
+    height: 100vh;
+    font-size: 32rpx;
+}
+
+.chat-con {
+    flex-grow: 1;
+    padding: 0 20rpx;
+    box-sizing: border-box;
+
+}
+
+.bg-color {
+    background-color: #ccc;
+}
+
+.avatar-con {
+    width: 100rpx;
+    height: 100rpx;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.avatar-img {
+    width: 140rpx;
+    flex-shrink: 0;
+}
+
+.chats-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 20rpx 0;
+}
+
+.chats-item>view {
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+.chat-con .chats-item:nth-child(2n) {
+    flex-direction: row-reverse;
+}
+
+/* 奇数 */
+.chat-con .chats-item:nth-child(2n-1) .chat-content {
+    margin-left: 20rpx;
+}
+
+/* 偶数 */
+.chat-con .chats-item:nth-child(2n) .chat-content {
+    margin-right: 20rpx;
+}
+
+/* 聊天内容 */
+.chat-content {
+    background-color: #07c160;
+    margin-top: 40rpx;
+    padding: 10rpx 20rpx;
+    border-radius: 5px;
+    /* 设置最大宽度 */
+    max-width: 400rpx;
+    /* 解决英文单词太长要换行 */
+    word-wrap: break-word;
+    white-space: normal;
+    word-break: break-all;
+}
+
+.msgImg {
+    max-width: 400rpx;
+}
+
+
+/* 输入 */
+.input-con {
+    box-sizing: border-box;
+    height: 100rpx;
+    width: 100%;
+    background-color: #fff;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+}
+
+.input,
+.send-btn {
+    flex-shrink: 0;
+
+}
+
+.input {
+    width: 400rpx;
+    height: 60rpx;
+    border: 2rpx solid #000;
+    flex-grow: 1;
+    margin: 0 20rpx;
+    padding-left: 10rpx;
+}
+
+.addContent {
+    height: 64rpx;
+    border-radius: 50%;
+    margin-right: 20rpx;
+}
+
+.send-btn {
+    margin-right: 20rpx;
+}
+
+.addImg {
+    width: 100%;
+    height: 200rpx;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    padding: 0 20rpx;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+}
+
+.addimg-btn {
+    margin: 0;
+    margin-right: 20rpx;
+}
