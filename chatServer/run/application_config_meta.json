@@ -1,0 +1,295 @@
+{
+  "keys": "D:\\实训2020\\chatServer\\config\\config.default.js",
+  "middleware": "D:\\实训2020\\chatServer\\config\\config.default.js",
+  "session": {
+    "maxAge": "D:\\实训2020\\chatServer\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\实训2020\\chatServer\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\实训2020\\chatServer\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\实训2020\\chatServer\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\实训2020\\chatServer\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\实训2020\\chatServer\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\实训2020\\chatServer\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\实训2020\\chatServer\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\实训2020\\chatServer\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\实训2020\\chatServer\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\实训2020\\chatServer\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\实训2020\\chatServer\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\实训2020\\chatServer\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\实训2020\\chatServer\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\实训2020\\chatServer\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\实训2020\\chatServer\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\实训2020\\chatServer\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\实训2020\\chatServer\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\实训2020\\chatServer\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\实训2020\\chatServer\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\实训2020\\chatServer\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\实训2020\\chatServer\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\实训2020\\chatServer\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\实训2020\\chatServer\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\实训2020\\chatServer\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\实训2020\\chatServer\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\实训2020\\chatServer\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\实训2020\\chatServer\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\实训2020\\chatServer\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "D:\\实训2020\\chatServer\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\实训2020\\chatServer\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\实训2020\\chatServer\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\实训2020\\chatServer\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\实训2020\\chatServer\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\实训2020\\chatServer\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\实训2020\\chatServer\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\实训2020\\chatServer\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\实训2020\\chatServer\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\实训2020\\chatServer\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\实训2020\\chatServer\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\实训2020\\chatServer\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\实训2020\\chatServer\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\实训2020\\chatServer\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\实训2020\\chatServer\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\实训2020\\chatServer\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\实训2020\\chatServer\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\实训2020\\chatServer\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\实训2020\\chatServer\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "private": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "tencentcloud-sdk-nodejs": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "stop": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "dev": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "debug": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "test": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "cov": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "lint": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "ci": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "autod": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "url": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\实训2020\\chatServer\\node_modules\\egg\\config\\config.default.js"
+}

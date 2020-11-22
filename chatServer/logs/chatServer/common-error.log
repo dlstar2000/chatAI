@@ -1,0 +1,40 @@
+2020-11-09 14:14:18,381 ERROR 17628 [-/127.0.0.1/-/605ms GET /AIChat?msg=%E4%BD%A0%E5%A5%BD] nodejs.MissingParameterError: The request is missing a required parameter `Query`.
+    at Client.parseResponse (D:\ling_zong\project\chatServer\node_modules\tencentcloud-sdk-nodejs\tencentcloud\common\abstract_client.js:128:33)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Client.request (D:\ling_zong\project\chatServer\node_modules\tencentcloud-sdk-nodejs\tencentcloud\common\abstract_client.js:60:28)
+requestId: "1c4adb41-5d0c-476f-ab16-9c3226001b49"
+code: "MissingParameter"
+name: "MissingParameterError"
+pid: 17628
+hostname: LAPTOP-4UO2FI07
+
+2020-11-09 14:24:08,620 ERROR 17780 [-/127.0.0.1/-/2365ms GET /AIChat?msg=%E4%BA%94%E6%8A%98%E5%A4%A9] nodejs.MissingParameterError: The request is missing a required parameter `Text`.
+    at Client.parseResponse (D:\ling_zong\project\chatServer\node_modules\tencentcloud-sdk-nodejs\tencentcloud\common\abstract_client.js:128:33)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Client.request (D:\ling_zong\project\chatServer\node_modules\tencentcloud-sdk-nodejs\tencentcloud\common\abstract_client.js:60:28)
+requestId: "f3403436-c542-4890-a6df-5c904131110d"
+code: "MissingParameter"
+name: "MissingParameterError"
+pid: 17780
+hostname: LAPTOP-4UO2FI07
+
+2020-11-09 16:07:24,094 ERROR 6684 [-/127.0.0.1/-/488ms GET /SimilarWords?msg=%E8%85%BE%E8%AE%AF] nodejs.MissingParameterError: The request is missing a required parameter `Text`.
+    at Client.parseResponse (D:\ling_zong\project\mySever\chatServer\node_modules\tencentcloud-sdk-nodejs\tencentcloud\common\abstract_client.js:128:33)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Client.request (D:\ling_zong\project\mySever\chatServer\node_modules\tencentcloud-sdk-nodejs\tencentcloud\common\abstract_client.js:60:28)
+requestId: "155b5bc9-eebd-4427-bb0c-0700f86bef67"
+code: "MissingParameter"
+name: "MissingParameterError"
+pid: 6684
+hostname: LAPTOP-4UO2FI07
+
+2020-11-09 18:42:07,311 ERROR 12004 [-/127.0.0.1/-/343ms GET /SimilarWords?words=%E7%BE%8A%E4%BB%94%E5%91%80] nodejs.FailedOperation.WordNotFoundError: 查找不到【羊仔呀】的同义词，请检查文本是否有效。
+    at Client.parseResponse (D:\实训2020\chatServer\node_modules\tencentcloud-sdk-nodejs\tencentcloud\common\abstract_client.js:128:33)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Client.request (D:\实训2020\chatServer\node_modules\tencentcloud-sdk-nodejs\tencentcloud\common\abstract_client.js:60:28)
+requestId: "89eea509-ce0b-44a2-88b4-acf52f04f48a"
+code: "FailedOperation.WordNotFound"
+name: "FailedOperation.WordNotFoundError"
+pid: 12004
+hostname: WIN-2SQBCS4SBN4
+

@@ -1,0 +1,375 @@
+2020-11-09 09:11:14,354 INFO 5192 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69525651ms at 2020-11-10 04:30:00.005
+2020-11-09 09:11:14,354 INFO 5192 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 53325646ms at 2020-11-10 00:00:00.000
+2020-11-09 09:11:14,355 INFO 5192 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53326646ms at 2020-11-10 00:00:01.001
+2020-11-09 09:11:14,079 INFO 10632 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:11:14,079 INFO 10632 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:11:14,079 INFO 10632 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:38:10,549 INFO 11600 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 67909456ms at 2020-11-10 04:30:00.004
+2020-11-09 09:38:10,549 INFO 11600 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 51709451ms at 2020-11-10 00:00:00.000
+2020-11-09 09:38:10,550 INFO 11600 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 51710451ms at 2020-11-10 00:00:01.001
+2020-11-09 09:38:10,276 INFO 18132 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:38:10,276 INFO 18132 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:38:10,276 INFO 18132 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:41:55,019 INFO 1844 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:41:55,019 INFO 1844 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:41:55,019 INFO 1844 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:42:23,481 INFO 14540 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:42:23,481 INFO 14540 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:42:23,481 INFO 14540 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:42:35,650 INFO 10084 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:42:35,650 INFO 10084 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:42:35,650 INFO 10084 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:42:41,218 INFO 16756 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:42:41,218 INFO 16756 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:42:41,218 INFO 16756 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:43:10,335 INFO 17636 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:43:10,335 INFO 17636 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:43:10,335 INFO 17636 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:43:30,503 INFO 2492 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:43:30,503 INFO 2492 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:43:30,503 INFO 2492 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:43:57,738 INFO 8980 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:43:57,738 INFO 8980 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:43:57,738 INFO 8980 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:44:17,207 INFO 20908 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:44:17,207 INFO 20908 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:44:17,207 INFO 20908 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:55:36,881 INFO 11064 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:55:36,881 INFO 11064 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:55:36,881 INFO 11064 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:55:50,848 INFO 12840 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:55:50,848 INFO 12840 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:55:50,848 INFO 12840 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 09:55:59,406 INFO 15980 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 09:55:59,406 INFO 15980 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 09:55:59,406 INFO 15980 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:01:23,685 INFO 2960 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:01:23,685 INFO 2960 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:01:23,685 INFO 2960 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:02:39,827 INFO 12956 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:02:39,827 INFO 12956 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:02:39,827 INFO 12956 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:04:03,506 INFO 17644 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:04:03,506 INFO 17644 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:04:03,506 INFO 17644 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:04:09,133 INFO 20816 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:04:09,133 INFO 20816 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:04:09,133 INFO 20816 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:42:05,762 INFO 12296 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64074242ms at 2020-11-10 04:30:00.004
+2020-11-09 10:42:05,763 INFO 12296 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 47874238ms at 2020-11-10 00:00:00.001
+2020-11-09 10:42:05,763 INFO 12296 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47875237ms at 2020-11-10 00:00:01.000
+2020-11-09 10:42:05,462 INFO 24192 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:42:05,462 INFO 24192 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:42:05,462 INFO 24192 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:42:08,599 INFO 22580 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:42:08,599 INFO 22580 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:42:08,599 INFO 22580 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:42:38,918 INFO 1688 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:42:38,918 INFO 1688 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:42:38,919 INFO 1688 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:42:41,632 INFO 24152 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:42:41,632 INFO 24152 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:42:41,632 INFO 24152 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:51:10,798 INFO 9440 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:51:10,798 INFO 9440 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:51:10,798 INFO 9440 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:51:11,942 INFO 24340 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 63528062ms at 2020-11-10 04:30:00.004
+2020-11-09 10:51:11,942 INFO 24340 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 47328058ms at 2020-11-10 00:00:00.000
+2020-11-09 10:51:11,943 INFO 24340 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47329058ms at 2020-11-10 00:00:01.001
+2020-11-09 10:52:14,238 INFO 24236 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:52:14,238 INFO 24236 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:52:14,238 INFO 24236 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:53:18,927 INFO 2216 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:53:18,927 INFO 2216 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:53:18,927 INFO 2216 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:56:12,402 INFO 24152 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:56:12,402 INFO 24152 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:56:12,402 INFO 24152 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:56:15,822 INFO 16664 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:56:15,822 INFO 16664 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:56:15,822 INFO 16664 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 10:56:25,782 INFO 23340 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 10:56:25,782 INFO 23340 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 10:56:25,782 INFO 23340 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 11:14:02,846 INFO 21508 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 11:14:02,846 INFO 21508 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 11:14:02,846 INFO 21508 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 11:14:41,412 INFO 16760 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 11:14:41,412 INFO 16760 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 11:14:41,412 INFO 16760 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:08:37,122 INFO 20156 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51682882ms at 2020-11-10 04:30:00.004
+2020-11-09 14:08:37,122 INFO 20156 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 35482878ms at 2020-11-10 00:00:00.000
+2020-11-09 14:08:37,123 INFO 20156 [Timer] D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35483878ms at 2020-11-10 00:00:01.001
+2020-11-09 14:08:36,795 INFO 22364 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:08:36,795 INFO 22364 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:08:36,795 INFO 22364 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:10:42,826 INFO 17628 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:10:42,826 INFO 17628 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:10:42,826 INFO 17628 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:14:49,529 INFO 22916 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:14:49,529 INFO 22916 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:14:49,529 INFO 22916 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:20:14,526 INFO 19352 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:20:14,526 INFO 19352 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:20:14,526 INFO 19352 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:21:00,419 INFO 23768 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:21:00,419 INFO 23768 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:21:00,419 INFO 23768 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:21:31,990 INFO 10300 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:21:31,990 INFO 10300 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:21:31,990 INFO 10300 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:22:15,575 INFO 5448 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:22:15,575 INFO 5448 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:22:15,575 INFO 5448 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:23:58,347 INFO 17780 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:23:58,348 INFO 17780 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:23:58,348 INFO 17780 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:25:04,412 INFO 15904 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:25:04,412 INFO 15904 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:25:04,412 INFO 15904 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 14:27:31,185 INFO 16792 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 14:27:31,185 INFO 16792 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 14:27:31,185 INFO 16792 [egg-schedule]: register schedule D:\ling_zong\project\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 15:48:01,750 INFO 21448 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 15:48:01,750 INFO 21448 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 15:48:01,750 INFO 21448 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 15:48:01,984 INFO 2120 [Timer] D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45718019ms at 2020-11-10 04:30:00.003
+2020-11-09 15:48:01,985 INFO 2120 [Timer] D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29518016ms at 2020-11-10 00:00:00.001
+2020-11-09 15:48:01,985 INFO 2120 [Timer] D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29519015ms at 2020-11-10 00:00:01.000
+2020-11-09 15:48:04,101 INFO 20580 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 15:48:04,101 INFO 20580 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 15:48:04,101 INFO 20580 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 15:58:08,152 INFO 24368 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 15:58:08,152 INFO 24368 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 15:58:08,152 INFO 24368 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 15:59:14,303 INFO 1084 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 15:59:14,303 INFO 1084 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 15:59:14,303 INFO 1084 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 15:59:32,590 INFO 4740 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 15:59:32,590 INFO 4740 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 15:59:32,590 INFO 4740 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:00:27,031 INFO 18760 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:00:27,031 INFO 18760 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:00:27,031 INFO 18760 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:01:22,680 INFO 11800 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:01:22,680 INFO 11800 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:01:22,680 INFO 11800 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:01:43,333 INFO 9756 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:01:43,333 INFO 9756 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:01:43,333 INFO 9756 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:02:31,449 INFO 6684 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:02:31,449 INFO 6684 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:02:31,449 INFO 6684 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:10:37,515 INFO 3756 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:10:37,515 INFO 3756 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:10:37,515 INFO 3756 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:10:53,634 INFO 24388 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:10:53,634 INFO 24388 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:10:53,634 INFO 24388 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:11:09,521 INFO 18828 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:11:09,521 INFO 18828 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:11:09,521 INFO 18828 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:12:01,578 INFO 13948 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:12:01,579 INFO 13948 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:12:01,579 INFO 13948 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:15:59,181 INFO 14648 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:15:59,181 INFO 14648 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:15:59,181 INFO 14648 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:16:02,657 INFO 12436 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:16:02,657 INFO 12436 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:16:02,657 INFO 12436 [egg-schedule]: register schedule D:\ling_zong\project\mySever\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 16:33:06,110 INFO 4124 [Timer] D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43013892ms at 2020-11-10 04:30:00.002
+2020-11-09 16:33:06,111 INFO 4124 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 26813890ms at 2020-11-10 00:00:00.001
+2020-11-09 16:33:06,111 INFO 4124 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 26814889ms at 2020-11-10 00:00:01.000
+2020-11-09 16:33:05,226 INFO 11376 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 16:33:05,226 INFO 11376 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 16:33:05,226 INFO 11376 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:01:12,263 INFO 13688 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:01:12,263 INFO 13688 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:01:12,263 INFO 13688 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:01:14,186 INFO 12180 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:01:14,186 INFO 12180 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:01:14,186 INFO 12180 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:01:15,999 INFO 13444 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:01:15,999 INFO 13444 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:01:16,000 INFO 13444 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:01:17,848 INFO 7568 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:01:17,848 INFO 7568 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:01:17,848 INFO 7568 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:04:52,047 INFO 11736 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:04:52,047 INFO 11736 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:04:52,047 INFO 11736 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:04:53,663 INFO 10960 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:04:53,663 INFO 10960 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:04:53,663 INFO 10960 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:05:41,068 INFO 1728 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:05:41,068 INFO 1728 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:05:41,068 INFO 1728 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:05:54,394 INFO 11376 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:05:54,394 INFO 11376 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:05:54,394 INFO 11376 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:07:23,061 INFO 11936 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:07:23,061 INFO 11936 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:07:23,061 INFO 11936 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:07:25,663 INFO 14412 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:07:25,663 INFO 14412 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:07:25,663 INFO 14412 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:07:27,543 INFO 11152 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:07:27,543 INFO 11152 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:07:27,543 INFO 11152 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:07:43,592 INFO 11108 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:07:43,592 INFO 11108 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:07:43,592 INFO 11108 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:07:45,303 INFO 12320 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:07:45,303 INFO 12320 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:07:45,303 INFO 12320 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:07:50,322 INFO 13916 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:07:50,322 INFO 13916 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:07:50,322 INFO 13916 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:00,852 INFO 11940 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:00,852 INFO 11940 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:00,852 INFO 11940 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:02,502 INFO 13168 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:02,502 INFO 13168 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:02,502 INFO 13168 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:07,397 INFO 8020 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:07,397 INFO 8020 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:07,397 INFO 8020 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:09,246 INFO 5908 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:09,246 INFO 5908 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:09,246 INFO 5908 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:12,608 INFO 6564 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:12,609 INFO 6564 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:12,609 INFO 6564 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:14,979 INFO 13280 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:14,979 INFO 13280 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:14,979 INFO 13280 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:20,193 INFO 12880 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:20,193 INFO 12880 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:20,193 INFO 12880 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:23,586 INFO 11092 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:23,586 INFO 11092 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:23,586 INFO 11092 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:26,345 INFO 13360 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:26,345 INFO 13360 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:26,345 INFO 13360 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:28,017 INFO 6764 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:28,017 INFO 6764 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:28,017 INFO 6764 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:35,330 INFO 5152 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:35,331 INFO 5152 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:35,331 INFO 5152 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:40,937 INFO 5144 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:40,937 INFO 5144 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:40,937 INFO 5144 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:08:46,987 INFO 12204 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:08:46,987 INFO 12204 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:08:46,987 INFO 12204 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 17:10:49,782 INFO 14848 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 17:10:49,782 INFO 14848 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 17:10:49,782 INFO 14848 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 18:41:18,028 INFO 12004 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-09 18:41:18,028 INFO 12004 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-09 18:41:18,028 INFO 12004 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-09 18:41:23,666 INFO 11956 [Timer] D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 35316340ms at 2020-11-10 04:30:00.005
+2020-11-09 18:41:23,666 INFO 11956 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 19116334ms at 2020-11-10 00:00:00.000
+2020-11-09 18:41:23,667 INFO 11956 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 19117334ms at 2020-11-10 00:00:01.001
+2020-11-10 11:36:35,782 INFO 7736 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-10 11:36:35,782 INFO 7736 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-10 11:36:35,782 INFO 7736 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-10 11:36:36,293 INFO 4852 [Timer] D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 60803720ms at 2020-11-11 04:30:00.013
+2020-11-10 11:36:36,293 INFO 4852 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 44603707ms at 2020-11-11 00:00:00.000
+2020-11-10 11:36:36,293 INFO 4852 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44604707ms at 2020-11-11 00:00:01.000
+2020-11-10 11:41:00,197 INFO 13344 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-10 11:41:00,197 INFO 13344 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-10 11:41:00,197 INFO 13344 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-10 11:41:00,630 INFO 9048 [Timer] D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 60539373ms at 2020-11-11 04:30:00.003
+2020-11-10 11:41:00,630 INFO 9048 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 44339370ms at 2020-11-11 00:00:00.000
+2020-11-10 11:41:00,631 INFO 9048 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44340370ms at 2020-11-11 00:00:01.001
+2020-11-10 14:38:09,751 INFO 9896 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-10 14:38:09,751 INFO 9896 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-10 14:38:09,751 INFO 9896 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-10 14:38:13,989 INFO 9964 [Timer] D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49906014ms at 2020-11-11 04:30:00.003
+2020-11-10 14:38:13,989 INFO 9964 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33706011ms at 2020-11-11 00:00:00.000
+2020-11-10 14:38:13,990 INFO 9964 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33707011ms at 2020-11-11 00:00:01.000
+2020-11-12 18:19:48,434 INFO 10040 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:19:48,434 INFO 10040 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:19:48,434 INFO 10040 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:19:52,318 INFO 10172 [Timer] D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36607698ms at 2020-11-13 04:30:00.016
+2020-11-12 18:19:52,318 INFO 10172 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 20407682ms at 2020-11-13 00:00:00.000
+2020-11-12 18:19:52,319 INFO 10172 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20408682ms at 2020-11-13 00:00:01.001
+2020-11-12 18:27:04,462 INFO 14896 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:27:04,462 INFO 14896 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:27:04,462 INFO 14896 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:27:14,002 INFO 16132 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:27:14,002 INFO 16132 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:27:14,002 INFO 16132 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:27:15,870 INFO 14520 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:27:15,870 INFO 14520 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:27:15,870 INFO 14520 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:27:27,476 INFO 14756 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:27:27,476 INFO 14756 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:27:27,476 INFO 14756 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:27:42,069 INFO 11764 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:27:42,069 INFO 11764 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:27:42,069 INFO 11764 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:29:20,864 INFO 16044 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:29:20,864 INFO 16044 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:29:20,864 INFO 16044 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:29:25,930 INFO 10704 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:29:25,930 INFO 10704 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:29:25,930 INFO 10704 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:29:40,046 INFO 12960 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:29:40,046 INFO 12960 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:29:40,046 INFO 12960 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:29:56,606 INFO 12900 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:29:56,606 INFO 12900 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:29:56,606 INFO 12900 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:30:04,612 INFO 12444 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:30:04,612 INFO 12444 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:30:04,612 INFO 12444 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:30:07,549 INFO 9976 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:30:07,549 INFO 9976 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:30:07,549 INFO 9976 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:30:55,951 INFO 3008 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:30:55,951 INFO 3008 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:30:55,951 INFO 3008 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:31:09,980 INFO 15152 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:31:09,980 INFO 15152 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:31:09,980 INFO 15152 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:34:12,156 INFO 14964 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:34:12,156 INFO 14964 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:34:12,156 INFO 14964 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:34:15,243 INFO 9612 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:34:15,243 INFO 9612 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:34:15,243 INFO 9612 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:34:21,107 INFO 14080 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:34:21,107 INFO 14080 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:34:21,107 INFO 14080 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:34:24,845 INFO 15416 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:34:24,845 INFO 15416 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:34:24,845 INFO 15416 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:34:26,578 INFO 16204 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:34:26,578 INFO 16204 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:34:26,578 INFO 16204 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:34:31,293 INFO 12360 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:34:31,293 INFO 12360 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:34:31,293 INFO 12360 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:34:42,184 INFO 5992 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:34:42,184 INFO 5992 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:34:42,184 INFO 5992 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:34:52,246 INFO 14876 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:34:52,246 INFO 14876 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:34:52,246 INFO 14876 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 18:35:41,764 INFO 8784 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 18:35:41,764 INFO 8784 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 18:35:41,764 INFO 8784 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-12 19:49:30,144 INFO 18132 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-12 19:49:30,144 INFO 18132 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-12 19:49:30,144 INFO 18132 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-13 08:59:17,254 INFO 12424 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-13 08:59:17,254 INFO 12424 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-11-13 08:59:17,254 INFO 12424 [egg-schedule]: register schedule D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-13 08:59:17,848 INFO 2044 [Timer] D:\实训2020\chatServer\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 70242155ms at 2020-11-14 04:30:00.003
+2020-11-13 08:59:17,848 INFO 2044 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 54042152ms at 2020-11-14 00:00:00.000
+2020-11-13 08:59:17,849 INFO 2044 [Timer] D:\实训2020\chatServer\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 54043152ms at 2020-11-14 00:00:01.001
